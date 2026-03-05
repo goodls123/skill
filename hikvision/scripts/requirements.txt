@@ -1,0 +1,5 @@
+# 海康威视 ISAPI 控制器依赖
+# 安装: pip3 install -r requirements.txt
+
+# HTTP 请求库，支持 Digest 认证
+requests>=2.28.0
